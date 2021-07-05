@@ -1,0 +1,35 @@
+#todo-section {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.todo-container {
+    width: 400px;
+    border-style: dashed;
+    margin-bottom: 20px;
+    border: 1px solid darkgray;
+}
+
+.todo-element {
+    background-color: olivedrab;
+    padding: 10px 20px;
+    border-radius: 8px;
+    box-shadow: darkgray 5px 5px 10px;
+    color: whitesmoke;
+    display: flex;
+    justify-content: space-between;
+}
+
+.todo-element-gray {
+    background-color: grey;
+}
+
+.todo-element-orange {
+    background-color: orange;
+}
+
+.todo-element-red {
+    background-color: crimson;
+}
