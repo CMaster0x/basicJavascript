@@ -1,0 +1,35 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/631690ad/
+#todo-section	css/style.css	/^#todo-section {$/;"	i
+.todo-container	css/style.css	/^.todo-container {$/;"	c
+.todo-element	css/style.css	/^.todo-element {$/;"	c
+.todo-element-gray	css/style.css	/^.todo-element-gray {$/;"	c
+.todo-element-orange	css/style.css	/^.todo-element-orange {$/;"	c
+.todo-element-red	css/style.css	/^.todo-element-red {$/;"	c
+AnonymousFunction5b94773d0100	js/app.js	/^document.addEventListener('DOMContentLoaded', function () {$/;"	f
+AnonymousFunction5b94773d0200	js/app.js	/^        ongoingTodoList.sort(function(a, b) {$/;"	f
+add-todo	index.html	/^    <button type="button" id="add-todo">Agregar tarea<\/button>$/;"	I
+addToDate	js/time-helper.js	/^function addToDate(date, { days, hours, minutes, seconds }) {$/;"	f
+basicJavascript	README.md	/^# basicJavascript/;"	c
+colorTodos	js/app.js	/^    function colorTodos() {$/;"	f	function:AnonymousFunction5b94773d0100
+completed-todo-container	index.html	/^      <div id="completed-todo-container" class="todo-container">Completed ToDos.<\/div>$/;"	I
+createAndAppend	js/dom-helper.js	/^function createAndAppend(appendTo, elementType, textNode) {$/;"	f
+inTimeRange	js/time-helper.js	/^function inTimeRange(date, start, end) {$/;"	f
+incomplete-todo-container	index.html	/^      <div id="incomplete-todo-container" class="todo-container">Incomplete ToDos.<\/div>$/;"	I
+launch_watchman	.git/hooks/fsmonitor-watchman.sample	/^sub launch_watchman {$/;"	s
+newTime	js/time-helper.js	/^function newTime(timeSting) {$/;"	f
+ongoing-todo-container	index.html	/^      <div id="ongoing-todo-container" class="todo-container">Esta es la lista de tareas.<\/div>$/;"	I
+orderTodoList	js/app.js	/^    function orderTodoList() {$/;"	f	function:AnonymousFunction5b94773d0100
+removeTodo	js/app.js	/^    function removeTodo(elementIndex) {$/;"	f	function:AnonymousFunction5b94773d0100
+storageTodoList	js/storage-todo-list.js	/^const storageTodoList = (function () {$/;"	f
+substractToDate	js/time-helper.js	/^function substractToDate(date, { days, hours, minutes, seconds }) {$/;"	f
+todo-section	index.html	/^    <section id="todo-section">$/;"	I
+todo-time	index.html	/^    <input type="time" id="todo-time"\/>$/;"	I
+todo-value	index.html	/^    <input type="text" id="todo-value"\/>$/;"	I
